@@ -1,3 +1,3 @@
 Expenses Tracker Webpage by Anh Huynh
 
-https://anhpls.github.io/spending-tracker/
+https://anhpls.github.io/expense-oversight
