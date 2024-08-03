@@ -1,3 +1,3 @@
 Expenses Tracker Webpage by Anh Huynh
 
-https://anhpls.github.io/expense-oversight
+<a href="https://anhpls.github.io/expense-oversight" target="_blank">Expense Oversight</a>
