@@ -113,7 +113,7 @@ function Tracker() {
                 </div>
             </div>
             <div className="footer">
-                <p>Design & Coded by Anh Huynh</p>
+                <p>Designed & Coded by Anh Huynh</p>
             </div>
         </>
     );
